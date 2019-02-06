@@ -15,8 +15,29 @@ The earliest known shoes are sagebrush bark sandals dating from approximately 70
 ### Soles
 All shoes have a sole, which is the bottom of a shoe, in contact with the ground. Soles can be made from a variety of materials, although most modern shoes have soles made from natural rubber, polyurethane, or polyvinyl chloride (PVC) compounds.[44] Soles can be simple — a single material in a single layer — or they can be complex, with multiple structures or layers and materials. When various layers are used, soles may consist of an insole, midsole, and an outsole.[45]
 
+---
+
+### Shoelaces 
+Shoelaces, also called shoestrings (US English) or bootlaces (UK English), are a system commonly used to secure shoes, boots and other footwear. They typically consist of a pair of strings or cords, one for each shoe, finished off at both ends with stiff sections, known as aglets. Each shoelace typically passes through a series of holes, eyelets, loops or hooks on either side of the shoe. Loosening the lacing allows the shoe to open wide enough for the foot to be inserted or removed. Tightening the lacing and tying off the ends secures the foot within the shoe.
+
+---
+
+### Sandals 
+Sandals are an open type of footwear, consisting of a sole held to the wearer's foot by straps going over the instep and, sometimes, around the ankle. Sandals can also have a heel. While the distinction between sandals and other types of footwear can sometimes be blurry (as in the case of huaraches—the woven leather footwear seen in Mexico, and peep-toe pumps), the common understanding is that a sandal leaves all or most of the foot exposed. People may choose to wear sandals for several reasons, among them comfort in warm weather, economy (sandals tend to require less material than shoes and are usually easier to construct), and as a fashion choice.
+
+--- 
+
+### Boots 
+
+A boot is a type of footwear and not a specific type of shoe. Most boots mainly cover the foot and the ankle, while some also cover some part of the lower calf. Some boots extend up the leg, sometimes as far as the knee or even the hip. Most boots have a heel that is clearly distinguishable from the rest of the sole, even if the two are made of one piece. Traditionally made of leather or rubber, modern boots are made from a variety of materials. Boots are worn both for their functionality – protecting the foot and leg from water, extreme cold, mud or hazards (e.g., work boots may protect wearers from chemicals or use a steel toe) or providing additional ankle support for strenuous activities with added traction requirements (e.g., hiking), or may have hobnails on their undersides to protect against wear and to get better grip; and for reasons of style and fashion.
 
 
+---
 
+### Sneakers 
+
+Sneakers (also known as athletic shoes, tennis shoes, gym shoes, sport shoes, runners, or trainers) are shoes primarily designed for sports or other forms of physical exercise, but which are now also widely used for everyday wear. The term generally describes a type of footwear with a flexible sole made of rubber or synthetic material and an upper part made of leather, synthetic substitutes or cloth.
+
+---
 
 
