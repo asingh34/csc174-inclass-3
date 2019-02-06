@@ -12,6 +12,7 @@ A shoe is an item of footwear intended to protect and comfort the human foot whi
 
 The earliest known shoes are sagebrush bark sandals dating from approximately 7000 or 8000 BC, found in the Fort Rock Cave in the US state of Oregon in 1938.[4] The world's oldest leather shoe, made from a single piece of cowhide laced with a leather cord along seams at the front and back, was found in the Areni-1 cave complex in Armenia in 2008 and is believed to date to 3500 BC.[5][6] Ötzi the Iceman's shoes, dating to 3300 BC, featured brown bearskin bases, deerskin side panels, and a bark-string net, which pulled tight around the foot.[5] The Jotunheimen shoe was discovered in August 2006. Archaeologists estimate that the leather shoe was made between 1800 and 1100 BC,[7] making it the oldest article of clothing discovered in Scandinavia.
 
+---
 ### Soles
 All shoes have a sole, which is the bottom of a shoe, in contact with the ground. Soles can be made from a variety of materials, although most modern shoes have soles made from natural rubber, polyurethane, or polyvinyl chloride (PVC) compounds.[44] Soles can be simple — a single material in a single layer — or they can be complex, with multiple structures or layers and materials. When various layers are used, soles may consist of an insole, midsole, and an outsole.[45]
 
